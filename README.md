@@ -1,3 +1,3 @@
 hello!
 
-# Test direct push (this should fail)
+##  Feature test: verifying PR template and automation
